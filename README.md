@@ -1,4 +1,4 @@
-Capstone Project： Which feature affect wine points the most?
+Feature Extraction： Which feature affect wine points the most?
 ===
 
 @EllenMengqiXu
